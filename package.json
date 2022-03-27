@@ -16,6 +16,10 @@
   "author": "Andrew Pazniak (me-andre)",
   "license": "MIT",
   "devDependencies": {
+    "@types/react": "^17.0.43",
     "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
   }
 }
